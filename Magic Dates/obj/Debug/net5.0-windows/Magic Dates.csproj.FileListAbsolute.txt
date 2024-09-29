@@ -1,0 +1,18 @@
+C:\Users\AKZis\source\repos\Magic Dates\bin\Debug\net5.0-windows\Magic Dates.exe
+C:\Users\AKZis\source\repos\Magic Dates\bin\Debug\net5.0-windows\Magic Dates.deps.json
+C:\Users\AKZis\source\repos\Magic Dates\bin\Debug\net5.0-windows\Magic Dates.runtimeconfig.json
+C:\Users\AKZis\source\repos\Magic Dates\bin\Debug\net5.0-windows\Magic Dates.runtimeconfig.dev.json
+C:\Users\AKZis\source\repos\Magic Dates\bin\Debug\net5.0-windows\Magic Dates.dll
+C:\Users\AKZis\source\repos\Magic Dates\bin\Debug\net5.0-windows\ref\Magic Dates.dll
+C:\Users\AKZis\source\repos\Magic Dates\bin\Debug\net5.0-windows\Magic Dates.pdb
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.csproj.AssemblyReference.cache
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic_Dates.Form1.resources
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.csproj.GenerateResource.cache
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.AssemblyInfoInputs.cache
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.AssemblyInfo.cs
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.csproj.CoreCompileInputs.cache
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.dll
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\ref\Magic Dates.dll
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.pdb
+C:\Users\AKZis\source\repos\Magic Dates\obj\Debug\net5.0-windows\Magic Dates.genruntimeconfig.cache
