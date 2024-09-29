@@ -1,0 +1,18 @@
+C:\Users\AKZis\source\repos\Distance Calculator\bin\Debug\net5.0-windows\Distance Calculator.exe
+C:\Users\AKZis\source\repos\Distance Calculator\bin\Debug\net5.0-windows\Distance Calculator.deps.json
+C:\Users\AKZis\source\repos\Distance Calculator\bin\Debug\net5.0-windows\Distance Calculator.runtimeconfig.json
+C:\Users\AKZis\source\repos\Distance Calculator\bin\Debug\net5.0-windows\Distance Calculator.runtimeconfig.dev.json
+C:\Users\AKZis\source\repos\Distance Calculator\bin\Debug\net5.0-windows\Distance Calculator.dll
+C:\Users\AKZis\source\repos\Distance Calculator\bin\Debug\net5.0-windows\ref\Distance Calculator.dll
+C:\Users\AKZis\source\repos\Distance Calculator\bin\Debug\net5.0-windows\Distance Calculator.pdb
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.csproj.AssemblyReference.cache
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance_Calculator.Form1.resources
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.csproj.GenerateResource.cache
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.AssemblyInfoInputs.cache
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.AssemblyInfo.cs
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.csproj.CoreCompileInputs.cache
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.dll
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\ref\Distance Calculator.dll
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.pdb
+C:\Users\AKZis\source\repos\Distance Calculator\obj\Debug\net5.0-windows\Distance Calculator.genruntimeconfig.cache
