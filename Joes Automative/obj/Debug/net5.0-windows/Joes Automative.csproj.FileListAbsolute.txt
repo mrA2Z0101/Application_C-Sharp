@@ -1,0 +1,18 @@
+C:\Users\AKZis\source\repos\Joes Automative\bin\Debug\net5.0-windows\Joes Automative.exe
+C:\Users\AKZis\source\repos\Joes Automative\bin\Debug\net5.0-windows\Joes Automative.deps.json
+C:\Users\AKZis\source\repos\Joes Automative\bin\Debug\net5.0-windows\Joes Automative.runtimeconfig.json
+C:\Users\AKZis\source\repos\Joes Automative\bin\Debug\net5.0-windows\Joes Automative.runtimeconfig.dev.json
+C:\Users\AKZis\source\repos\Joes Automative\bin\Debug\net5.0-windows\Joes Automative.dll
+C:\Users\AKZis\source\repos\Joes Automative\bin\Debug\net5.0-windows\ref\Joes Automative.dll
+C:\Users\AKZis\source\repos\Joes Automative\bin\Debug\net5.0-windows\Joes Automative.pdb
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.csproj.AssemblyReference.cache
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes_Automative.Form1.resources
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.csproj.GenerateResource.cache
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.AssemblyInfoInputs.cache
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.AssemblyInfo.cs
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.csproj.CoreCompileInputs.cache
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.dll
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\ref\Joes Automative.dll
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.pdb
+C:\Users\AKZis\source\repos\Joes Automative\obj\Debug\net5.0-windows\Joes Automative.genruntimeconfig.cache
